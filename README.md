@@ -8,5 +8,7 @@ I am Evelyn McQueen, Education Specialist for the Mississippi Sound Estuary Prog
 **Data Science** knowledge acquired in this course will help in numerous ways:
 - Python Skills
 - R Skills
+- Better understanding of AI
 - analyzing complex datasets
+
 In order to test the inclusion of a photograph, I've included this photo of Mardi Gras Beads bound for the landfill, picked up during the Mississippi Coastal Cleanup Mardi Gras Cleanup. ![alt text](20250301_104244.jpg)
